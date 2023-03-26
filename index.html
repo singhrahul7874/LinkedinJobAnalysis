@@ -1,0 +1,970 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+    <title>Linkeding Job Analysis</title>
+    <link rel="stylesheet" href="css/bootstrap.min.css" />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <link
+      rel="icon"
+      href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"
+      type="image/icon"
+    />
+    <link rel="stylesheet" href="css/jquery.mCustomScrollbar.min.css" />
+    <link
+      rel="stylesheet"
+      href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css"
+    />
+    <script
+      src="https://kit.fontawesome.com/5fa36d54c1.js"
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css"
+      media="screen"
+    />
+    <style>
+      .linkedinLogo {
+        width: 250px;
+        height: 80px;
+      }
+
+      #cards_landscape_wrap-2 {
+        text-align: center;
+      }
+
+      #cards_landscape_wrap-2 .container {
+        padding-top: 0px;
+        padding-bottom: 100px;
+      }
+
+      #cards_landscape_wrap-2 a {
+        text-decoration: none;
+        outline: none;
+      }
+
+      #cards_landscape_wrap-2 .card-flyer {
+        border-radius: 5px;
+      }
+
+      #cards_landscape_wrap-2 .card-flyer .image-box {
+        background: #ffffff;
+        overflow: hidden;
+        box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.5);
+        border-radius: 5px;
+      }
+
+      #cards_landscape_wrap-2 .card-flyer .image-box img {
+        -webkit-transition: all 0.9s ease;
+        -moz-transition: all 0.9s ease;
+        -o-transition: all 0.9s ease;
+        -ms-transition: all 0.9s ease;
+        width: 100%;
+        height: 200px;
+      }
+
+      .team1 {
+        font-family: "Montserrat", sans-serif;
+        color: #8d97ad;
+        font-weight: 300;
+      }
+
+      .team1 h1,
+      .team1 h2,
+      .team1 h3,
+      .team1 h4,
+      .team1 h5,
+      .team1 h6 {
+        color: #3e4555;
+      }
+
+      .team1 .font-weight-medium {
+        font-weight: 500;
+      }
+
+      .team1 .bg-light {
+        background-color: #f4f8fa !important;
+      }
+
+      .team1 .subtitle {
+        color: #8d97ad;
+        line-height: 24px;
+      }
+
+      .team1 .pro-pic {
+      }
+
+      .team1 .pro-pic .card-img-overlay {
+        /* background: rgba(26, 139, 243, 0.87); */
+        display: none;
+      }
+
+      .team1 .pro-pic .card-img-overlay ul {
+        top: 50%;
+      }
+
+      .team1 .pro-pic .card-img-overlay ul li a {
+        -webkit-transition: 0.1s ease-in;
+        -o-transition: 0.1s ease-in;
+        transition: 0.1s ease-in;
+      }
+
+      .team1 .pro-pic .card-img-overlay ul li a:hover {
+        -webkit-transform: translate3d(0px, -5px, 0px);
+        transform: translate3d(0px, -5px, 0px);
+      }
+
+      .team1 .pro-pic:hover .card-img-overlay {
+        display: block;
+      }
+
+      #cards_landscape_wrap-2 .card-flyer:hover .image-box img {
+        opacity: 0.7;
+        -webkit-transform: scale(1.15);
+        -moz-transform: scale(1.15);
+        -ms-transform: scale(1.15);
+        -o-transform: scale(1.15);
+        transform: scale(1.15);
+      }
+
+      #cards_landscape_wrap-2 .card-flyer .text-box {
+        text-align: center;
+      }
+
+      #cards_landscape_wrap-2 .card-flyer .text-box .text-container {
+        padding: 30px 10px;
+      }
+
+      #cards_landscape_wrap-2 .card-flyer {
+        background: #ffffff;
+        margin-top: 20px;
+        -webkit-transition: all 0.2s ease-in;
+        -moz-transition: all 0.2s ease-in;
+        -ms-transition: all 0.2s ease-in;
+        -o-transition: all 0.2s ease-in;
+        transition: all 0.2s ease-in;
+        box-shadow: 0px 3px 4px rgba(0, 0, 0, 0.4);
+      }
+
+      #cards_landscape_wrap-2 .card-flyer:hover {
+        background: #fff;
+        box-shadow: 0px 15px 26px rgba(0, 0, 0, 0.5);
+        -webkit-transition: all 0.2s ease-in;
+        -moz-transition: all 0.2s ease-in;
+        -ms-transition: all 0.2s ease-in;
+        -o-transition: all 0.2s ease-in;
+        transition: all 0.2s ease-in;
+        margin-top: 50px;
+      }
+
+      #cards_landscape_wrap-2 .card-flyer .text-box p {
+        margin-top: 10px;
+        margin-bottom: 0px;
+        padding-bottom: 0px;
+        font-size: 14px;
+        letter-spacing: 1px;
+        color: #000000;
+      }
+
+      #cards_landscape_wrap-2 .card-flyer .text-box h6 {
+        margin-top: 0px;
+        margin-bottom: 4px;
+        font-size: 18px;
+        font-weight: bold;
+        text-transform: uppercase;
+        font-family: "Roboto Black", sans-serif;
+        letter-spacing: 1px;
+        color: #00acc1;
+      }
+
+      .dummyHover {
+        transition: 0.5s;
+      }
+
+      .dummyHover:hover {
+        scale: 1.03;
+        cursor: pointer;
+        border: 2px solid #00aeef;
+      }
+
+      #ch {
+        transition: 0.5s;
+      }
+
+      #ch:hover {
+        scale: 1.2;
+        cursor: pointer;
+      }
+
+      .text_bio {
+        font-size: 13px;
+        margin-top: -10px;
+      }
+
+      .outer_skills {
+        padding: 30px 100px;
+        display: flex;
+        justify-content: space-evenly;
+        align-items: center;
+        /* padding-top: 40px; */
+      }
+      .outer_skills > div {
+        height: 100px;
+        width: 100px;
+        border-radius: 5px;
+        background-color: white;
+        transition: 0.5s;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 20px;
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+          rgba(0, 0, 0, 0.3) 0px 7px 13px -3px,
+          rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+      }
+
+      .outer_skills > div img {
+        transition: 0.6s;
+      }
+      .outer_skills > div:hover {
+        scale: 1.1;
+        cursor: pointer;
+      }
+      .outer_skills > div:hover img {
+        scale: 1.3;
+        cursor: pointer;
+      }
+
+      .outer_dashboard {
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding-top: 0px;
+      }
+
+      .inner_dashboard {
+        padding: 20px;
+        /* border: 1px solid red; */
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 85%;
+        border-radius: 6px;
+        transition: 0.5s;
+        box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px,
+          rgba(0, 0, 0, 0.3) 0px 7px 13px -3px,
+          rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+      }
+
+      .inner_dashboard img {
+        width: 100%;
+        height: 100%;
+        transition: 0.5s;
+      }
+
+      .inner_dashboard:hover {
+        scale: 1.03;
+        /* border-radius: 10px; */
+      }
+
+      .inner_dashboard:hover img {
+        scale: 1.03;
+        border-radius: 10px;
+      }
+      .dashboard_heading {
+        font-size: 40px;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        margin-top: 40px;
+        /* border-bottom: 1px solid black; */
+      }
+    </style>
+  </head>
+  <!-- body -->
+
+  <body class="main-layout">
+    <!-- loader  -->
+    <div class="loader_bg">
+      <div class="loader"><img src="images/loading.gif" alt="#" /></div>
+    </div>
+    <!-- end loader -->
+    <div class="wrapper">
+      <!-- end loader -->
+      <div class="sidebar">
+        <!-- Sidebar  -->
+        <nav id="sidebar">
+          <div id="dismiss">
+            <i class="fa fa-arrow-left"></i>
+          </div>
+          <ul class="list-unstyled components">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About </a></li>
+            <li><a href="#work">Work</a></li>
+            <li><a href="#contact">Contact </a></li>
+          </ul>
+        </nav>
+      </div>
+      <div id="content">
+        <!-- header -->
+        <header>
+          <!-- header inner -->
+          <div class="header">
+            <div class="container-fluid">
+              <div class="row">
+                <div
+                  class="col-xl-3 col-lg-3 col-md-3 col-sm-3 col logo_section"
+                >
+                  <div class="full">
+                    <div class="center-desk">
+                      <div class="logo">
+                        <a href="index.html"
+                          ><img
+                            src="images/logo.png"
+                            alt="#"
+                            class="linkedinLogo"
+                        /></a>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-9 col-lg-9 col-md-9 col-sm-9">
+                  <ul class="btn">
+                    <li class="down_btn"><a href="#">Home</a></li>
+                    <li><a href="#dashboard">Dashboard</a></li>
+                    <li>
+                      <a href="./searchPage.html"
+                        ><i class="fa fa-search" aria-hidden="true"></i> &nbsp;
+                        Search
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </header>
+        <!-- end header inner -->
+        <!-- end header -->
+        <!-- banner -->
+        <div
+          id="myCarousel"
+          class="carousel slide banner_main"
+          data-ride="carousel"
+        >
+          <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+          </ol>
+          <div class="carousel-inner">
+            <div class="carousel-item active">
+              <div class="container-fluid">
+                <div class="carousel-caption">
+                  <div class="row">
+                    <div class="col-xl-5 col-lg-12 col-md-5 col-sm-12">
+                      <div class="text-bg">
+                        <h1 style="margin-top: 100px">Linkedin Job Analysis</h1>
+                      </div>
+                    </div>
+                    <div class="col-xl-7 col-lg-12 col-md-7 col-sm-12">
+                      <div class="images_box">
+                        <figure><img src="images/img2.png" /></figure>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <a
+            class="carousel-control-prev"
+            href="#myCarousel"
+            role="button"
+            data-slide="prev"
+          >
+            <i class="fa fa-long-arrow-left" aria-hidden="true"></i>
+          </a>
+          <a
+            class="carousel-control-next"
+            href="#myCarousel"
+            role="button"
+            data-slide="next"
+          >
+            <i class="fa fa-long-arrow-right" aria-hidden="true"></i>
+          </a>
+        </div>
+        <!-- end banner -->
+        <!-- about -->
+        <div id="about" class="about">
+          <div class="container-fluid">
+            <div class="row d_flex">
+              <div class="col-md-5">
+                <div class="about_img">
+                  <figure><img src="images/about_img.jpg" alt="#" /></figure>
+                </div>
+              </div>
+              <div class="col-md-7">
+                <div class="titlepage">
+                  <h2>About <span class="blu">Project</span></h2>
+                  <p style="color: grey">
+                    A job analysis project on LinkedIn typically involves
+                    conducting a thorough examination of a specific job role
+                    listed on the LinkedIn platform. The aim of this project is
+                    to scrape LinkedIn jobs website, Analysis it and build a
+                    web-page to show insights generated from it.
+                  </p>
+                  <a class="read_more">See Insights</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="py-5 bg-light team1">
+        <div class="container">
+          <div class="row justify-content-center mb-3">
+            <div class="col-md-7 text-center">
+              <h1 class="mb-3" style="font-size: 35px">
+                Meet Our <span style="color: #00aeef">Team Members</span>
+              </h1>
+              <h6 class="subtitle font-weight-normal">
+                Team<span><b style="color: red"> 'DARR' </b></span> : Our team
+                is fearless, determined, and always ready to take on new
+                challenges without darr!
+              </h6>
+              <p
+                style="font-size: 12px; margin-top: -15px; padding-bottom: 20px"
+              >
+                "The success of our project is a reflection of each team
+                member's valuable contribution."
+              </p>
+            </div>
+          </div>
+
+          <div class="row">
+            <!-- column  -->
+            <div class="col-lg-6">
+              <div class="card card-shadow border-0 mb-4">
+                <!-- Row -->
+                <div
+                  class="row no-gutters dummyHover"
+                  style="
+                    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+                      rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+                    padding: 10px;
+                    border-radius: 5px;
+                  "
+                >
+                  <div
+                    class="col-md-5 pro-pic"
+                    style="
+                      background-image: url('./images//first.jpg');
+                      background-size: cover;
+                      box-shadow: 'rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset';
+                      border-radius: 5px;
+                      min-height: 180px;
+                      min-width: 200px;
+                    "
+                  >
+                    <div class="card-img-overlay"></div>
+                  </div>
+
+                  <div class="col-md-7 bg-white">
+                    <div class="p-4">
+                      <h6 class="mb-3 font-weight-bold" style="font-size: 18px">
+                        Deeksha Singhal
+                      </h6>
+                      <p class="text_bio">
+                        An aspiring Data Analyst with the ability to communicate
+                        well and contribute in a team.
+                      </p>
+                      <p style="margin-top: 15px">
+                        <a
+                          href="https://www.linkedin.com/in/deeksha-singhal-ba849926a/"
+                          target="_blank"
+                        >
+                          <i
+                            class="fab fa-linkedin-in fa-2x"
+                            style="color: #0082ca; font-size: 25px"
+                            id="ch"
+                          ></i>
+                        </a>
+
+                        &nbsp;&nbsp;
+
+                        <a href="https://github.com/Deeksha228" target="_blank">
+                          <i
+                            class="fab fa-github fa-2x"
+                            style="color: #333333; font-size: 25px"
+                            id="ch"
+                          ></i
+                        ></a>
+
+                        &nbsp;&nbsp;
+                        <a
+                          href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=deekshasinghal228@gmail.com"
+                          target="_blank"
+                          ><i
+                            class="fab fa-google fa-2x"
+                            style="color: #dd4b39; font-size: 25px"
+                            id="ch"
+                          ></i> </a
+                        >&nbsp;&nbsp;
+
+                        <a
+                          href="https://www.hackerrank.com/deekshasinghal21"
+                          target="_blank"
+                        >
+                          <i
+                            class="fa-brands fa-hackerrank"
+                            style="color: #2ec866; font-size: 25px"
+                            id="ch"
+                          ></i>
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+            </div>
+
+            <!-- column  -->
+            <div class="col-lg-6">
+              <div class="card card-shadow border-0 mb-4">
+                <!-- Row -->
+                <div
+                  class="row no-gutters dummyHover card-shadow"
+                  style="
+                    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+                      rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+                    padding: 10px;
+                    border-radius: 5px;
+                  "
+                >
+                  <div
+                    class="col-md-5 pro-pic"
+                    style="
+                      background-image: url('./images/second2.png');
+                      background-size: cover;
+                      min-height: 180px;
+                      min-width: 200px;
+                      border-radius: 5px;
+                    "
+                  >
+                    <div class="card-img-overlay"></div>
+                  </div>
+                  <div class="col-md-7 bg-white">
+                    <div class="p-4">
+                      <h6 class="mb-3 font-weight-bold" style="font-size: 18px">
+                        Aastha Shrivastava
+                      </h6>
+                      <p class="text_bio">
+                        An aspiring Data Analyst with the ability to communicate
+                        well and contribute in a team.
+                      </p>
+                      <p style="margin-top: 15px">
+                        <a
+                          href="https://www.linkedin.com/in/aastha-shrivastava-2502901b6/"
+                          target="_blank"
+                        >
+                          <i
+                            class="fab fa-linkedin-in fa-2x"
+                            style="color: #0082ca; font-size: 25px"
+                            id="ch"
+                          ></i
+                        ></a>
+                        &nbsp;&nbsp;
+
+                        <a href="https://github.com/aashuim" target="_blank">
+                          <i
+                            class="fab fa-github fa-2x"
+                            style="color: #333333; font-size: 25px"
+                            id="ch"
+                          ></i
+                        ></a>
+
+                        &nbsp;&nbsp;
+
+                        <a
+                          href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=aasthashri96@gmail.com"
+                          target="_blank"
+                          ><i
+                            class="fab fa-google fa-2x"
+                            style="color: #dd4b39; font-size: 25px"
+                            id="ch"
+                          ></i>
+                        </a>
+
+                        &nbsp;&nbsp;
+
+                        <a
+                          href="https://www.hackerrank.com/aasthashri96"
+                          target="_blank"
+                        >
+                          <i
+                            class="fa-brands fa-hackerrank"
+                            style="color: #2ec866; font-size: 25px"
+                            id="ch"
+                          ></i>
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+            </div>
+
+            <!-- column  -->
+          </div>
+
+          <div class="row">
+            <!-- column  -->
+            <div class="col-lg-6">
+              <div class="card card-shadow border-0 mb-4">
+                <!-- Row -->
+                <div
+                  class="row no-gutters dummyHover card-shadow"
+                  style="
+                    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+                      rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+                    padding: 10px;
+                    border-radius: 5px;
+                  "
+                >
+                  <div
+                    class="col-md-5 pro-pic"
+                    style="
+                      background-image: url('./images/third.jpg');
+                      background-size: cover;
+                      box-shadow: 'rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset';
+                      border-radius: 5px;
+                      min-height: 180px;
+                      min-width: 200px;
+                    "
+                  >
+                    <div class="card-img-overlay"></div>
+                  </div>
+                  <div class="col-md-7 bg-white">
+                    <div class="p-4">
+                      <h6 class="mb-3 font-weight-bold" style="font-size: 18px">
+                        Ravi Kumar Agrawal
+                      </h6>
+                      <p class="text_bio">
+                        An aspiring Data Analyst with the ability to communicate
+                        well and contribute in a team.
+                      </p>
+                      <p style="margin-top: 15px">
+                        <a
+                          href="https://www.linkedin.com/in/raviag8340/"
+                          target="_blank"
+                        >
+                          <i
+                            class="fab fa-linkedin-in fa-2x"
+                            style="color: #0082ca; font-size: 25px"
+                            id="ch"
+                          ></i
+                        ></a>
+                        &nbsp;&nbsp;
+
+                        <a
+                          href="https://github.com/RaviKumarAgrawal"
+                          target="_blank"
+                          ><i
+                            class="fab fa-github fa-2x"
+                            style="color: #333333; font-size: 25px"
+                            id="ch"
+                          ></i
+                        ></a>
+
+                        &nbsp;&nbsp;
+
+                        <a
+                          href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=raviag8340@gmail.com"
+                          target="_blank"
+                          ><i
+                            class="fab fa-google fa-2x"
+                            style="color: #dd4b39; font-size: 25px"
+                            id="ch"
+                          ></i>
+                        </a>
+                        &nbsp;&nbsp;
+
+                        <a
+                          href="https://www.hackerrank.com/raviag8340"
+                          target="_blank"
+                        >
+                          <i
+                            class="fa-brands fa-hackerrank"
+                            style="color: #2ec866; font-size: 25px"
+                            id="ch"
+                          ></i>
+                        </a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+            </div>
+            <!-- column  -->
+            <div class="col-lg-6">
+              <div class="card card-shadow border-0 mb-4">
+                <!-- Row -->
+                <div
+                  class="row no-gutters dummyHover card-shadow"
+                  style="
+                    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+                      rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+                    padding: 10px;
+                    border-radius: 5px;
+                  "
+                >
+                  <div
+                    class="col-md-5 pro-pic"
+                    style="
+                      background-image: url('./images/four.jpg');
+                      background-size: cover;
+                      box-shadow: 'rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset';
+                      border-radius: 5px;
+                      min-height: 180px;
+                      min-width: 200px;
+                    "
+                  >
+                    <div class="card-img-overlay"></div>
+                  </div>
+                  <div class="col-md-7 bg-white">
+                    <div class="p-4">
+                      <h6 class="mb-3 font-weight-bold" style="font-size: 18px">
+                        Rahul Singh
+                      </h6>
+                      <p class="text_bio">
+                        An aspiring Data Analyst with the ability to communicate
+                        well and contribute in a team.
+                      </p>
+                      <p style="margin-top: 15px">
+                        <a
+                          href="https://www.linkedin.com/in/rahul-singh-310054202/"
+                          target="_blank"
+                        >
+                          <i
+                            class="fab fa-linkedin-in fa-2x"
+                            style="color: #0082ca; font-size: 25px"
+                            id="ch"
+                          ></i
+                        ></a>
+
+                        &nbsp;&nbsp;
+
+                        <a
+                          href="https://github.com/singhrahul7874"
+                          target="_blank"
+                        >
+                          <i
+                            class="fab fa-github fa-2x"
+                            style="color: #333333; font-size: 25px"
+                            id="ch"
+                          ></i
+                        ></a>
+
+                        &nbsp;&nbsp;
+
+                        <a
+                          href="https://mail.google.com/mail/u/0/?view=cm&fs=1&to=maiselsingh5599@gmail.com"
+                          target="_blank"
+                          ><i
+                            class="fab fa-google fa-2x"
+                            style="color: #dd4b39; font-size: 25px"
+                            id="ch"
+                          ></i>
+                        </a>
+
+                        &nbsp;&nbsp;
+
+                        <a
+                          href="https://www.hackerrank.com/maiselsingh5599"
+                          target="_blank"
+                        >
+                          <i
+                            class="fa-brands fa-hackerrank"
+                            style="color: #2ec866; font-size: 25px"
+                            id="ch"
+                          ></i
+                        ></a>
+                      </p>
+                    </div>
+                  </div>
+                </div>
+                <!-- Row -->
+              </div>
+            </div>
+            <!-- column  -->
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div style="background-color: #00aeef; padding: 20px">
+      <h1 class="mb-3 text-center" style="font-size: 30px; color: white">
+        Tools & Technologies
+      </h1>
+      <hr color="white" style="width: 400px; height: 3px; margin-top: -15px" />
+
+      <div class="outer_skills">
+        <div>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg"
+            alt="Excel"
+          />
+        </div>
+
+        <div>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Database-mysql.svg"
+            alt="My sql"
+          />
+        </div>
+        <div>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+            alt="Python"
+          />
+        </div>
+        <div style="padding: 5px">
+          <img
+            src="https://pandas.pydata.org/static/img/pandas_secondary.svg"
+            alt="Pandas"
+          />
+        </div>
+        <div style="padding: 10px">
+          <img
+            src="https://user-images.githubusercontent.com/67586773/105040771-43887300-5a88-11eb-9f01-bee100b9ef22.png"
+            alt="Numpy"
+          />
+        </div>
+        <div style="padding: 0px">
+          <img
+            style="scale: 1.5"
+            src="https://scope.mt/wp-content/uploads/2022/03/PowerBI_Vendor_Product_Logo.svg"
+            alt="Power Bi"
+          />
+        </div>
+
+        <div>
+          <img
+            style="scale: 1.2"
+            src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"
+            alt="Scikit"
+          />
+        </div>
+        <div>
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"
+            alt="Jupyter Notebook"
+          />
+        </div>
+
+        <div>
+          <img
+            src="https://seeklogo.com/images/S/selenium-logo-DB9103D7CF-seeklogo.com.png"
+            alt="selenium"
+          />
+        </div>
+        <div style="padding: 0px">
+          <img
+            src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"
+            alt="google colab"
+          />
+        </div>
+      </div>
+    </div>
+
+    <h1 class="text-center dashboard_heading">Dashboard</h1>
+
+    <div id="dashboard" class="outer_dashboard">
+      <div class="inner_dashboard">
+        <img src="./images/dashboard.png" alt="Dashboard" />
+      </div>
+
+      <!-- <img src="./images/dashboard.png" alt="Dashboard"> -->
+    </div>
+    <div class="overlay"></div>
+    <!-- Javascript files-->
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.bundle.min.js"></script>
+    <script src="js/jquery-3.0.0.min.js"></script>
+    <!-- sidebar -->
+    <script src="js/jquery.mCustomScrollbar.concat.min.js"></script>
+    <script src="js/custom.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function () {
+        $("#sidebar").mCustomScrollbar({
+          theme: "minimal",
+        });
+
+        $("#dismiss, .overlay").on("click", function () {
+          $("#sidebar").removeClass("active");
+          $(".overlay").removeClass("active");
+        });
+
+        $("#sidebarCollapse").on("click", function () {
+          $("#sidebar").addClass("active");
+          $(".overlay").addClass("active");
+          $(".collapse.in").toggleClass("in");
+          $("a[aria-expanded=true]").attr("aria-expanded", "false");
+        });
+      });
+    </script>
+    <script>
+      $(document).ready(function () {
+        $(".fancybox").fancybox({
+          openEffect: "none",
+          closeEffect: "none",
+        });
+
+        $(".zoom").hover(
+          function () {
+            $(this).addClass("transition");
+          },
+          function () {
+            $(this).removeClass("transition");
+          }
+        );
+      });
+    </script>
+    <script>
+      // This example adds a marker to indicate the position of Bondi Beach in Sydney,
+      // Australia.
+      function initMap() {
+        var map = new google.maps.Map(document.getElementById("map"), {
+          zoom: 11,
+          center: {
+            lat: 40.645037,
+            lng: -73.880224,
+          },
+        });
+
+        var image = "images/maps-and-flags.png";
+        var beachMarker = new google.maps.Marker({
+          position: {
+            lat: 40.645037,
+            lng: -73.880224,
+          },
+          map: map,
+          icon: image,
+        });
+      }
+    </script>
+    <!-- google map js -->
+    <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8eaHt9Dh5H57Zh0xVTqxVdBFCvFMqFjQ&callback=initMap"></script>
+    <!-- end google map js -->
+  </body>
+</html>
+
+<script src="./logic.js"></script>
