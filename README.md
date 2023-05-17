@@ -55,13 +55,44 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
 1. The visual provides an overview of job opportunities that specifically require a particular skill set. It showcases the correlation between specific skills and the corresponding job positions available in the market. The visual aims to highlight the demand for expertise in certain areas and serves as a valuable resource for individuals seeking employment opportunities aligned with their skill sets.
 
+	`plt.figure(figsize=(20,10),dpi=100)`
+	`chart = sns.barplot(x=skill_df["Skill"],y=skill_df["Number of jobs requiring the skill"],palette="icefire")`
+	`plt.title("Number of jobs that require a particular skill",size=25)`
+	`plt.ylabel("Number of jobs",size=22)`
+	`plt.xlabel("Skill",size=22)`
+	`plt.xticks(fontsize=18,rotation=90)`
+	`plt.yticks(fontsize=18)`
+	`chart.bar_label(chart.containers[0],size=18)`
+
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235893509-09e24fc5-ddde-424b-b7bc-ad6c606b856c.png height=400 width=800></a></p>
 ------------------------------------------------------------------------------------------------------------------------------------
 
 2. The visual displays the distribution of job availability across different classes, providing insights into the number of job opportunities within each category. It offers a clear understanding of the relative abundance or scarcity of jobs in various classes, aiding individuals in identifying areas with higher or lower job prospects.
 
+	`plt.figure(figsize=(20,10),dpi=100)`
+	`ax = sns.countplot(df["Class"],palette="viridis")`
+	`plt.title("Job Openings by Class",size=25)`
+	`plt.ylabel("Number of job openings",size=20)`
+	`plt.xlabel("Class",size=20)`
+	`plt.xticks(fontsize=20)`
+	`plt.yticks(fontsize=20)`
+	`ax.bar_label(ax.containers[0],size=20)`
+
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235894505-1d09f952-dfc7-4625-a6c0-fb58e79ff671.png height=400 width=800></a></p>
 ------------------------------------------------------------------------------------------------------------------------------------
+
+3. This visual highlights job openings categorized based on their involvement nature. It provides insights into the levels of engagement and responsibility required for various positions, helping individuals identify roles that align with their desired involvement level.
+
+	`plt.figure(figsize=(13,6), dpi=200)`
+	`chart = sns.countplot(df["Involvement"],palette='ocean_r')`
+	`plt.title("Job Openings for different involvement natures",size=25)`
+	`plt.ylabel("Number of job openings",size=20)`
+	`plt.xlabel("Involvement nature",size=20)`
+	`chart.bar_label(chart.containers[0],size=13)`
+
+<p align="center"><a><img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/4af95f62-6e4d-47e4-a51a-8ad22d6abe51 height=400 width=800></a></p>
+
+
 <br>
 
 ## <img src=https://cdn1.vectorstock.com/i/1000x1000/45/70/dashboard-icon-vector-22894570.jpg height=50 width=50> 
