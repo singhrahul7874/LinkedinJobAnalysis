@@ -8,17 +8,13 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
 |Files | Description |
 |-----|--------|
-|Data_cleaning_ml (darr).ipynb |This file all the data cleaning steps involved in our project |
-|EDA_REPORT (JOB_ANALYTICS_LINKEDIN).ipynb |This file contains Exploratory Data Analysis report |
-|Final_scrapper_ML (darr).ipynb |This is our Data Scrapping file used to scrape linkedin jobs section 
-|ML_final_data(Darr).csv| This file contains our final sanitzed dataset |
-|csvjson.json|This file is just a json of the above csv |
-|dashboard.html|This page contains code for our dashboard button |
-|index.html |This file contains our main web-page's code |
-|logic.js |This file contains logic use to show job details based on different skills |
-|searchPage.html| This file contain code for our search bar(to search jobs based on skills) |
-|linkedin_mysql_script.sql |This script contains insights derived in mysql-workbench |
-|mlrahul...lll.pbix |This is our data-visualization file containg Dashboard in PowerBi |
+| Data-Cleaning | This folder contains files and scripts specifically dedicated to the process of cleaning raw data |
+| Data-Scrapping | This folder contains files and scripts designed to extract data from Linekdin's Jobs Section |
+| Data-Visualization | This folder contains files and scripts that focus on creating visual representations of data in PowerBI |
+| Dataset |  The dataset folder serves as a central location for storing and managing the data used in the project |
+| Exploratory Data Analysis | This folder contains files and scripts dedicated to exploring the patterns present in a given dataset |
+| Web-Page | This folder contains files and resources related to the development of a web page or website |
+| README.md | This is a readme file of this repositary |
 
 <br>
 
@@ -30,37 +26,42 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
 ## <img src=https://user-images.githubusercontent.com/106439762/178428775-03d67679-9aa4-4b08-91e9-6eb6ed8faf66.gif height=48 width=48> Methodology:
 
-  1. Scraped Linkedin jobs section using python library Selenium and extracted following attributes.
-  <div id="image-table">
-    <table>
-	    <tr>
-    	    <td style="padding:10px">
-        	    <img src=https://user-images.githubusercontent.com/55955478/235886598-f8657895-553a-4fd4-b40b-2dd425ee8314.png height=200 width=500>
-      	    </td>
-            <td style="padding:10px">
-            	 <img src=https://user-images.githubusercontent.com/55955478/235887725-1aa07ea7-0d62-4c90-bcb2-3f084ee69abb.png height=200 width=500>
-        </tr>
-      <tr> 
-        <td style="padding:10px">
-          <img src= https://user-images.githubusercontent.com/55955478/235890070-6de42529-a5c0-4770-84aa-3703175e9530.png height=200 width=500>
-        </td>
-      </tr>
-    </table>
+1. Implemented web scraping on the LinkedIn jobs section using the Python library Selenium. Leveraged its capabilities to extract and retrieve the following attributes from the job listings:
 
- 2. Did the data cleaning and EDA part with the help of Pandas and imported the CSVs into MySQL for furthur analysis.
+	| Attribute | Feature's Meaning |
+	|-----------|-----------|
+	|`location` | The location of the job |
+	|`designation`| The designation of the job |
+	|`name`| Name of the company |
+	|`industry` | Industry in which the company operates |
+	|`employees_count`| Count of employees |
+	|`linkedin_followers` | Number of followers on linkedin |
+	|`involvement` | the nature of involvement in the job, for instance: Full-time, part-time |
+	|`level` | The seniority level like Mid-Senior level |
+	|`total_applicants` | total number of applicants |
+	|`Skills` | Skills required for the job |
 
-3. Took help of different SQL clauses like group by, order by, having etc in order to manupalate the data and get the insights out.
+  2. Utilized Pandas to perform data cleaning and exploratory data analysis (EDA), and seamlessly imported the CSV files into MySQL for comprehensive analysis and further insights extraction.
 
-4. Created a web-page which shows different jobs on the basis of different skills. 
+3. Skillfully employed various SQL clauses such as GROUP BY, ORDER BY, HAVING, and more to manipulate the data, enabling in-depth analysis and extraction of valuable insights.
+
+4. Demonstrated proficiency by developing a dynamic web page showcasing diverse job listings categorized based on distinct skill sets, enhancing accessibility and user experience.
   
-  ![image](https://user-images.githubusercontent.com/55955478/235896881-e20faec3-33f1-4e5d-86d4-fbaeda90d573.png)
-
-
+  	<img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/277630c7-676c-4da4-8c32-e426655b9a67 height=300 width=700 >
 
 <br>
   
 ## <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif height=48 width=48> Results/Insights:
-  
+
+<div style="display: flex;">
+  <div style="flex: 50%; padding: 10px;">
+    <img src=https://user-images.githubusercontent.com/55955478/235893509-09e24fc5-ddde-424b-b7bc-ad6c606b856c.png alt="Image" width="400" />
+  </div>
+  <div style="flex: 50%; padding: 10px;">
+    <p>Some text describing the image.</p>
+  </div>
+</div>
+
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235893509-09e24fc5-ddde-424b-b7bc-ad6c606b856c.png height=400 width=1000></a></p>
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235894505-1d09f952-dfc7-4625-a6c0-fb58e79ff671.png height=400 width=1000></a></p>
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235895274-bde759d5-7990-47af-838f-dc1fd8612974.png height=400 width=1000></a></p>
