@@ -56,15 +56,17 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 1. The visual provides an overview of job opportunities that specifically require a particular skill set. It showcases the correlation between specific skills and the corresponding job positions available in the market. The visual aims to highlight the demand for expertise in certain areas and serves as a valuable resource for individuals seeking employment opportunities aligned with their skill sets.
 
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235893509-09e24fc5-ddde-424b-b7bc-ad6c606b856c.png height=400 width=800></a></p>
+------------------------------------------------------------------------------------------------------------------------------------
 
 2. The visual displays the distribution of job availability across different classes, providing insights into the number of job opportunities within each category. It offers a clear understanding of the relative abundance or scarcity of jobs in various classes, aiding individuals in identifying areas with higher or lower job prospects.
 
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235894505-1d09f952-dfc7-4625-a6c0-fb58e79ff671.png height=400 width=800></a></p>
- 
+------------------------------------------------------------------------------------------------------------------------------------
 <br>
-  
-## <img src=https://cdn1.vectorstock.com/i/1000x1000/45/70/dashboard-icon-vector-22894570.jpg height=50 width=50> :
-I have developed an interactive Power BI dashboard that consolidates data from various sources. It provides visually appealing charts, graphs, and tables to enable users to explore key metrics and gain valuable insights. The dashboard enhances data-driven decision-making and facilitates effective communication with stakeholders.
+
+## <img src=https://cdn1.vectorstock.com/i/1000x1000/45/70/dashboard-icon-vector-22894570.jpg height=50 width=50> 
+
+An interactive Power BI dashboard has been developed to consolidate data from multiple sources. It showcases visually engaging charts, graphs, and tables, enabling users to explore key metrics and extract valuable insights. The dashboard enhances data-driven decision-making and facilitates effective communication with stakeholders.
   
 ![image](https://user-images.githubusercontent.com/55955478/235902078-3608a456-0278-4b24-88b1-125cf11be3f2.png)
   
