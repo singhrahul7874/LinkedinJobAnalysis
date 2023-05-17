@@ -1,0 +1,812 @@
+Company_Name,Class,Designation,Location,Total_applicants,LinkedIn_Followers,Level,Involvement,Employee_count,Industry,PYTHON,C++,JAVA,HADOOP,SCALA,FLASK,PANDAS,SPARK,NUMPY,PHP,SQL,MYSQL,CSS,MONGODB,NLTK,TENSORFLOW,LINUX,RUBY,JAVASCRIPT,DJANGO,REACT,REACTJS,AI,UI,TABLEAU,NODEJS,EXCEL,POWER BI,SELENIUM,HTML,ML
+Wipro,Class 3,Project Manager, Maharashtra,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Project Manager, Delhi,121,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Project Manager, Delhi,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Administrator, Telangana,0,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Project Manager, Maharashtra,119,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Administrator, Telangana,39,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Administrator, Telangana,22,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Test Engineer, Maharashtra,158,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Administrator, Maharashtra,11,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Administrator, Maharashtra,47,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Service Level Manager, Maharashtra,20,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Administrator, Maharashtra,71,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Project Manager, Maharashtra,1,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,System Engineer, Maharashtra,104,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Test Engineer, Karnataka,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,System Engineer, Maharashtra,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Project Manager, Karnataka,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Lead Administrator, Maharashtra,5,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Lead Administrator, Maharashtra,8,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Wipro,Class 3,Business Analyst, Karnataka,0,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Project Manager, Karnataka,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+Wipro,Class 3,Project Manager, Karnataka,77,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Technical Lead, Maharashtra,71,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Business Analyst, Maharashtra,186,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Developer, Maharashtra,191,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Lead Administrator, Maharashtra,2,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Technical Lead, Maharashtra,8,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Developer, Maharashtra,34,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Developer, Haryana,148,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Project Lead, Maharashtra,27,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Project Lead, Maharashtra,34,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Consultant-Technology & Implementation, Maharashtra,72,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,DevOps Engineer, Karnataka,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Delivery Manager, Tamil Nadu,0,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Delivery Assurance Manager, Karnataka,3,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Developer, Uttar Pradesh,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Test Engineer, Tamil Nadu,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,DevOps Engineer, Telangana,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Project Manager, West Bengal,52,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+Wipro,Class 3,Administrator, Telangana,57,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Product Marketing Manager, Karnataka,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Pre-sales consultant, Delhi,141,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Maharashtra,95,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Delivery Manager, Karnataka,153,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Technical Lead, Karnataka,25,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Lead Administrator, Delhi,8,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Maharashtra,17,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Program Manager (PM), Maharashtra,17,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Maharashtra,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Administrator, Tamil Nadu,50,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Project Lead, Karnataka,9,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Developer, Maharashtra,156,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,1,0,0,0,1,1
+Wipro,Class 3,Manager – Learning and Development (I&D), Karnataka,145,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Maharashtra,34,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Project Lead, Karnataka,41,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Uttar Pradesh,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Telangana,24,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Senior Consultant-Technology & Implementation, Telangana,11,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Configurator, Maharashtra,23,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Lead Administrator, Tamil Nadu,7,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Manager – Learning and Development (I&D), Karnataka,127,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Lead Administrator, Tamil Nadu,21,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Project Lead, Karnataka,152,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Developer, Kerala,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Kerala,112,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Developer, Tamil Nadu,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Service Delivery Lead, Tamil Nadu,0,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Configurator, Delhi,92,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,ArtificiaI Intelligence Lead, Telangana,6,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Application Architect, Maharashtra,2,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Developer, Tamil Nadu,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,AWS Senior Cloud Developer, Telangana,12,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Middleware Administrator, Karnataka,64,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Class 3,Developer, Maharashtra,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Wipro,Class 3,System Engineer, Maharashtra,126,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Lead Administrator, Kerala,22,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Architect, Karnataka,16,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Presales Manager_F&A, Delhi,13,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Cyber Security Architect, Karnataka,10,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Kerala,25,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Senior Consultant-Technology & Implementation, Karnataka,29,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Architect, Karnataka,7,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Lead Administrator, Tamil Nadu,22,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Infrastructure Architect, Tamil Nadu,21,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,System Engineer, Uttar Pradesh,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Citrix Admin-Administrator, Karnataka,50,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Technical Lead, Tamil Nadu,142,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Developer, Kerala,85,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Tamil Nadu,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,AI/ML - Data Scientist, Tamil Nadu,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,1
+Wipro,Class 3,Pre-Sales Consultant, Karnataka,73,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Wipro,Class 3,Big Data Developer, Karnataka,79,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,DevOps Lead, Maharashtra,12,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Managing Consultant-Technology & Implementation, Karnataka,12,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Domain Architect, Maharashtra,1,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Wipro,Class 3,Data Analytics Architect, Maharashtra,8,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Scrum Master, Telangana,112,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+Wipro,Class 3,Test Engineer, Tamil Nadu,0,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,1,1,0,0,0,0
+Wipro,Class 3,Lead Developer, Karnataka,2,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Tools Consultant, Karnataka,34,6737300,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,Cyber Security Analyst, Kerala,156,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Wipro,Class 3,DevOps Engineer, Tamil Nadu,39,6737300,Full-time , Entry level,10001, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Java Developer, Telangana,22,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Java Developer, Karnataka,6,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Opening for Scrum Master, Maharashtra,21,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,PLSQL Development - LTIMindtree., Tamil Nadu,48,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Java Developer, Delhi,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Opening for Database Developer, Maharashtra,46,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,PL/PM (Scrum Master), Maharashtra,31,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Program Manager, Delhi,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Java Developer, Maharashtra,6,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,BA-P and C Insurance-Billing, Maharashtra,14,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+LTIMindtree,Class 1,Scrum Master, Delhi,5,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Scrum Master, Delhi,4,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Oracle EBS Apps Technical Consultant, Telangana,1,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+LTIMindtree,Class 1,Workday Consultant, Delhi,7,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Workday Consultant, Karnataka,8,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,"Opening for Oracle Fusion HCM Technical Analyst in LTIM, India", West Bengal,11,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Workday Consultant, Maharashtra,21,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Java Developer, Maharashtra,5,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Workday Consultant, Maharashtra,12,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Looking for Senior Manager - Program and Project Management, Maharashtra,14,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle EBS Apps Technical Consultant, Maharashtra,10,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+LTIMindtree,Class 1,PL/PM (Scrum Master), West Bengal,56,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Business Analyst, Delhi,1,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Workday Consultant, Uttar Pradesh,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Workday Consultant, Tamil Nadu,8,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Obiee Developer, Tamil Nadu,5,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Obiee Developer, Karnataka,4,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,"Opening for PeopleSoft Finance Technical,Consultant", Maharashtra,10,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,APEX Developer, Maharashtra,12,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1
+LTIMindtree,Class 1,Business Analyst- SME-Broker-Insurance, Maharashtra,77,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Java Developer, Tamil Nadu,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle EBS Apps Technical Consultant, Haryana,17,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+LTIMindtree,Class 1,PL/PM (Scrum Master), Karnataka,22,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Workday Consultant, West Bengal,13,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Java Back-end Developer, Maharashtra,25,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Obiee Developer, Uttar Pradesh,6,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,UI UX Designer, Karnataka,31,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Infra Cloud Architect, Delhi,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Looking for PHP Developer, Delhi,36,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,1,1,1,1,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+LTIMindtree,Class 1,"Opening for Oracle Fusion HCM Technical Analyst in LTIM, India", Maharashtra,6,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,"Opening for Oracle Fusion HCM Technical Analyst in LTIM, India", Karnataka,7,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,"Opening for Oracle Fusion HCM Technical Analyst in LTIM, India", Maharashtra,5,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,'Java Full stack Developer', Maharashtra,42,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+LTIMindtree,Class 1,Java Back-end Developer, Maharashtra,14,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,APEX Developer, Tamil Nadu,19,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,0,0,0,1,0,0,1,1
+LTIMindtree,Class 1,Business Analyst-P&C Insurance-Billing, Maharashtra,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+LTIMindtree,Class 1,Solace Admin, Maharashtra,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Agile Project Management required for Delhi, Delhi,23,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Workday Consultant, Telangana,14,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Workday Consultant, Haryana,15,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Technical Director, Delhi,2,270280,Full-time , Director,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Sharepoint Developer, Maharashtra,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Sharepoint Developer, Delhi,5,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Solace Admin, Tamil Nadu,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,PL/PM (Scrum Master), Tamil Nadu,36,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Delhi,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle EBS Apps Technical Consultant, West Bengal,7,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+LTIMindtree,Class 1,Solace Admin, Maharashtra,7,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Solace Admin, Telangana,5,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Business Analyst-Duckcreek-Claims, Maharashtra,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Business Analyst- SME-Broker-Insurance, Maharashtra,17,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Fusion HCM Technical, Maharashtra,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,WMS Functional, Maharashtra,4,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Haryana,2,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Opening for WMS Functional Consultant in LTIM, Maharashtra,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Cloud Architect, Karnataka,8,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,EBS Finance Functional, Telangana,12,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,EBS Finance Functional, Delhi,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Maharashtra,16,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Cloud Architect, Maharashtra,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,SAP Data Specialist, Karnataka,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Python Developer, Maharashtra,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Delhi,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Uttar Pradesh,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Opening for OTM Functional Consultant, Maharashtra,8,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,OTM Project Lead, Maharashtra,4,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+LTIMindtree,Class 1,Java Full Stack with angular and springboot, Maharashtra,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Maharashtra,15,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Sharepoint Developer, Telangana,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Sharepoint Developer, Karnataka,4,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Sharepoint Developer, Maharashtra,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Job| Mainframe Developers | 3-5yrs | PAN India, Maharashtra,8,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,'Java Full stack Developer', Tamil Nadu,37,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Delhi,1,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, West Bengal,1,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,WMS Functional, Maharashtra,2,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Uttar Pradesh,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Python Developer, Karnataka,10,270280,Full-time , Entry level,10001, IT Services and IT Consulting,1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Cloud Architect, Maharashtra,13,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,SAP Data Specialist, Maharashtra,4,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Opening for Fusion HCM Technical Consultant, Maharashtra,7,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Python Architect/Python Tech Lead/Python Technical Lead, Telangana,6,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Haryana,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Hyperion Essbase And Planning, Uttar Pradesh,1,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle EBS Apps Technical Consultant, Tamil Nadu,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,1
+LTIMindtree,Class 1,'Java Full stack Developer', Maharashtra,34,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+LTIMindtree,Class 1,'Java Full stack Developer', Karnataka,34,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+LTIMindtree,Class 1,EBS Finance Functional, Maharashtra,10,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,EBS Finance Functional, Maharashtra,11,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,JDE Technical PAN India, Maharashtra,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,JDE Technical PAN India, Maharashtra,1,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Maharashtra,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Oracle Apps Technical OAF, Maharashtra,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,WMS Lead Consultant, Maharashtra,9,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Karnataka,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Cloud Architect, West Bengal,12,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Java Full Stack with angular and springboot, Maharashtra,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,GCP Professionals, Tamil Nadu,4,270280,Full-time , Entry level,10001, IT Services and IT Consulting,1,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,GCP Professionals, Delhi,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,1,0,1,1,0,0,0,1,0,1,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle Apps Technical OAF, Tamil Nadu,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Telangana,5,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Java Full Stack with angular and springboot, Karnataka,1,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Oracle EPBCS (Enterprise Planning and Budgeting Cloud Service), Maharashtra,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle EPBCS (Enterprise Planning and Budgeting Cloud Service), Haryana,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring - Servicenow Developers, Delhi,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, West Bengal,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Hyperion Essbase And Planning, Telangana,2,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Hyperion Essbase And Planning, West Bengal,2,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Hyperion Essbase And Planning, Delhi,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Primavera Unifier Architect, West Bengal,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Sharepoint Developer, West Bengal,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Haryana,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Program Manager, Delhi,45,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Karnataka,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Sharepoint Developer, Delhi,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Sharepoint Developer, Telangana,1,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Talend Developer, Maharashtra,11,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle Apps Technical OAF, Maharashtra,8,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring - Servicenow Developers, Tamil Nadu,23,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Python Architect/Python Tech Lead/Python Technical Lead, Maharashtra,6,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Haryana,5,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,COBOL400 Developer, Maharashtra,9,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager- PAN India, West Bengal,7,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Karnataka,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Oracle Apps Technical OAF, Delhi,7,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager- PAN India, Delhi,8,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle EPBCS (Enterprise Planning and Budgeting Cloud Service), Maharashtra,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Karnataka,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Primavera Unifier Architect, Maharashtra,1,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle Apps Technical OAF, Uttar Pradesh,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,OTM Project Lead, West Bengal,4,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Delhi,1,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Uttar Pradesh,2,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,GTM/OTM Functional Consultant, Maharashtra,4,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,PLSQL Development - LTIMindtree., Delhi,19,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Maharashtra,12,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Maharashtra,16,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Business Analyst, Delhi,6,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Obiee Developer, Maharashtra,8,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,EBS Finance Functional, Haryana,5,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager- PAN India, Maharashtra,9,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager- PAN India, Haryana,10,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Delhi,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,JAVA Full stack Developer, Telangana,1,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Telangana,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Haryana,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Maharashtra,3,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Opening for Fusion Finance Functional Consultant, Maharashtra,7,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring - Servicenow Developers, Maharashtra,25,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,1
+LTIMindtree,Class 1,"Opening for PSFT Finance Technical Consultant in LTIM, India", Karnataka,5,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,JDE Technical PAN India, Uttar Pradesh,2,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Cloud Architect, Tamil Nadu,7,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Python Architect/Python Tech Lead/Python Technical Lead, Karnataka,6,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,1,0,0,0,1,0,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,JDE Technical PAN India, Telangana,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTI Hiring for Central Finance., Maharashtra,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle Apps Technical OAF, Karnataka,6,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Fusion Finance Architect, Tamil Nadu,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,JDE Finance PAN India, West Bengal,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Pega CSSA Specialist, Haryana,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LTIMindtree,Class 1,Pega CSSA Specialist, Uttar Pradesh,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LTIMindtree,Class 1,Data Modeler, Maharashtra,5,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Fusion HCM Technical, West Bengal,1,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,SAP Project Manager, Telangana,4,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Pega CSSA Specialist, Delhi,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+LTIMindtree,Class 1,PLSQL Development - LTIMindtree., Maharashtra,33,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+LTIMindtree,Class 1,JDE Technical PAN India, Karnataka,1,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, West Bengal,4,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTIMindtree Hiring SAP Project Manager, Maharashtra,0,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,OIC Developer, Madhya Pradesh,10,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+LTIMindtree,Class 1,Solace Admin, Karnataka,3,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Data Modeler, Maharashtra,9,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Mainframe Developer- PAN India, Uttar Pradesh,11,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,LTI Hiring for Central Finance., Tamil Nadu,4,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Siebel Developer, Karnataka,8,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Fusion Finance Architect, West Bengal,2,270280,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+LTIMindtree,Class 1,Oracle EPBCS (Enterprise Planning and Budgeting Cloud Service), Karnataka,0,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+LTIMindtree,Class 1,Oracle EPBCS (Enterprise Planning and Budgeting Cloud Service), West Bengal,1,270280,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SQL Developer, Maharashtra,9,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Karnataka,62,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Karnataka,42,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Manual Tester, Telangana,178,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Karnataka,46,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java Developer, Telangana,104,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Pl/SQL Developer, Maharashtra,71,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Maharashtra,50,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Business Consultant, Maharashtra,3,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Delivery Manager, Karnataka,42,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Jr. Software Engineer, Uttar Pradesh,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Test Engineer, Karnataka,26,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,React Developer, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java developer, Karnataka,70,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Business Consultant, Karnataka,95,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,WAS Admin, Maharashtra,9,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Backend Engineer, Odisha,76,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Solution Analyst, Karnataka,13,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Karnataka,43,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP BASIS, Odisha,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Test Engineer, Maharashtra,49,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Maharashtra,51,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP MM CONSULTANT, Maharashtra,92,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SQL Server DBA, Karnataka,35,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Windows Admin, Telangana,3,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Business Consultant, Karnataka,75,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Karnataka,47,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Karnataka,33,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Tamil Nadu,29,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Network Automation, Madhya Pradesh,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Change Manager, Karnataka,51,80865,Contract , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SQL Server DBA, Telangana,1,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Tamil Nadu,27,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP PROJECT MANAGER with ABAP, Telangana,2,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Dot Net developer, Karnataka,12,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Uttar Pradesh,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Software Engineer, Maharashtra,4,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABAP, Karnataka,3,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP QE/PO, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Test Lead, Maharashtra,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Karnataka,19,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Karnataka,32,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP MM/WM, Maharashtra,6,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Business Analyst, Madhya Pradesh,39,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Frontend Developer, Karnataka,19,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Maharashtra,53,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Scrum Master, Karnataka,5,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SQL Server DBA, Telangana,2,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Karnataka,20,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Business Consultant, Telangana,46,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP Abap-Sr. Software Engineer-Vizag, Andhra Pradesh,3,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Business Consultant, Uttar Pradesh,7,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Karnataka,26,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java Developers, Maharashtra,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Security Analyst, Maharashtra,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Engineer, Karnataka,39,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,QA Engineer, Karnataka,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+IDESLABS PRIVATE LIMITED,Class 4,IT Recruiter, Telangana,8,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Software Engineer, Karnataka,64,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Karnataka,15,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Test Engineer, Karnataka,82,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Karnataka,43,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Engineer, Karnataka,21,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Test Engineer, Maharashtra,27,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Associate -UX, Karnataka,11,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP QA Tester, Telangana,4,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Software Engineer, Uttar Pradesh,74,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP BW- Tech Lead, Telangana,9,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Test Engineer, Maharashtra,46,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Core Java, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Engineer, Telangana,18,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,QA, Karnataka,2,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Angular Developer, Delhi,11,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Java Developer, Tamil Nadu,22,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Web Developer, Maharashtra,35,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,1,1,1,0,1,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,AWS Devops engineer, Maharashtra,5,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Telangana,39,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java Developers, Telangana,1,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABAP(HR), Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Maharashtra,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Uttar Pradesh,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Team Lead, Telangana,23,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,.Net Lead, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Security Analyst, Telangana,52,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,.NET Full stack Developer, Odisha,7,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Engineer, Telangana,7,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP Project Manager, Telangana,23,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Informatica Developer, Karnataka,46,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Delivery Head, Telangana,0,80865,Full-time , Director,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Software Engineer, Telangana,88,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Lead-PMO, Maharashtra,156,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Telangana,31,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP BASIS, Telangana,22,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Telangana,78,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Tamil Nadu,33,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Maharashtra,5,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,UI/UX Developer, Maharashtra,12,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Devops Engineer, Maharashtra,61,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Software Engineer, Karnataka,52,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP MM-S4 HANA Consultant, Telangana,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP MM/PP, Telangana,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Recruitment Lead, Telangana,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Uttar Pradesh,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Telangana,9,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java-front end Developer, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP PI/PO, Telangana,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Uttar Pradesh,3,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Dot Net Developer, Karnataka,7,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Business Consultant, Karnataka,49,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Customer Delivery Head, West Bengal,36,80865,Contract , Director,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Karnataka,27,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Team Lead, Telangana,16,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Security Consultant, Maharashtra,4,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Maharashtra,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Uttar Pradesh,6,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABAP OData, Telangana,3,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,HCM HR, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Uttar Pradesh,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP Basis-Module Lead, Andhra Pradesh,5,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Dot net Developer / Sr. Developer, Telangana,2,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Maharashtra,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Associate Solution Architect, Telangana,5,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Support Analyst, Telangana,3,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Lead, Karnataka,53,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABAP on HANA, Maharashtra,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Oracle SCM Technical, Telangana,3,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Security Consultant, Karnataka,4,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Karnataka,16,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP FICO, Telangana,31,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,AWS DevOps, Telangana,2,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Telangana,35,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Solution Architect, Telangana,7,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Oracle IAM with Java Developer, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Business Analyst, Maharashtra,118,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Uttar Pradesh,1,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Uttar Pradesh,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Uttar Pradesh,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Power BI Developer, Telangana,4,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Telangana,9,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java Backend, Telangana,5,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Oracle Finance Technical Consultant, Telangana,12,80865,Contract , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,PHP Developer, Tamil Nadu,10,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,1,1,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Database Admin. Sr Cnslt., Telangana,12,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Tech Manager, Karnataka,16,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,AWS Engineer, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Maharashtra,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP Abap Workflow - Module Lead, Uttar Pradesh,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Engineer, Karnataka,7,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,"Full stack developer – Angular/C#,.Net.", Karnataka,3,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,SAP BASIS with Selenium, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Engineer, Telangana,15,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Telangana,33,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Lead, Karnataka,25,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP BI (BW) Lead, Telangana,7,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP MM WITH RELEASE STRATERGY, Telangana,112,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Maharashtra,2,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,SAP Security Consultant, Telangana,53,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java-Back end Developer, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP BASIS Consultant-S4 HANA, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,QA Engineer, Karnataka,14,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Software Engineer, Maharashtra,48,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Software Engineer, Maharashtra,85,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Uttar Pradesh,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,1,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Data Architect, Karnataka,6,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABSIS Admin, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Tech Manager, Maharashtra,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Maharashtra,2,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Test Manager, Maharashtra,4,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,1,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP FICO, Delhi,4,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABAP + Customization, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Telangana,22,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,.Net Core Developer, Maharashtra,2,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Associate Security Consultant, Karnataka,2,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Tech Manager, Telangana,39,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP MM with API, Telangana,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Security Consultant, Maharashtra,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Mainframe Developer, Karnataka,38,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Tech Manager, Maharashtra,3,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager- Jaipur, Rajasthan,25,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Delivery Manager, Telangana,167,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Lead DBA, Maharashtra,10,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABAP OOPS, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,ABAP Developer - Module Lead, Andhra Pradesh,6,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. SAP Functional Testing - Finance, Maharashtra,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABAP For NTT DATA, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Engineer, Tamil Nadu,17,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Haryana,10,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Dot Net Developer, Telangana,6,80865,Contract , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Security Analyst, Maharashtra,4,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Telangana,8,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,OFM Admin with SOA, Karnataka,7,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Senior AWS Developer, Telangana,6,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Power BI Developer, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Uttar Pradesh,3,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Andhra Pradesh,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,1,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,SAP ABAP-CDS Developer, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java Spring Boot Developer, Karnataka,7,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Front end developers, Tamil Nadu,16,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Project Lead, Telangana,39,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Network Lead, Telangana,6,80865,Contract , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Technical Architect, Karnataka,6,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Software Engineer, Uttar Pradesh,18,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Telangana,158,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Program Manager, Maharashtra,12,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,SAP FICO, Karnataka,3,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Security Consultant, Delhi,4,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP FICO, Telangana,42,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,UI Angular, Karnataka,13,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Project Lead, Uttar Pradesh,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Business Consultant, Telangana,18,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Technical Architect, Karnataka,5,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP Basis - Tech Manager, Maharashtra,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Uttar Pradesh,13,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Software Engineer, Karnataka,14,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Business Consultant, Tamil Nadu,40,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Telangana,15,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Team Lead, Uttar Pradesh,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP HCM Lead Consultant, Telangana,15,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Backup Admin - Mumbai Location, Maharashtra,6,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Security Consultant, Karnataka,23,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP FICO, Telangana,37,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Telangana,10,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Group Manager-Operations, Karnataka,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Kronos Custom Reports, Telangana,1,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Oracle Fusion CRM Consultant, Telangana,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Testing, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java Spring Boot Developer, Telangana,1,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Telangana,12,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java Fullstack Developer, Telangana,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Tech Manager, Telangana,5,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Maharashtra,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,1,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Tech Lead, Uttar Pradesh,25,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Software Development Analyst, Karnataka,10,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Bioinformatics QA, Telangana,25,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Dot net Developer / Sr. Developer, Telangana,4,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Project Manager, Telangana,33,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Tech Manager, Telangana,7,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Software Engineer, Uttar Pradesh,1,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Tech Manager, Telangana,2,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Tech Specialist, Telangana,40,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Pega Developer, Telangana,2,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+IDESLABS PRIVATE LIMITED,Class 4,Project Lead, Telangana,17,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP MDG with ABAP, Telangana,0,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Associate Technical Architect, Karnataka,4,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,CRM Customer Service, Telangana,3,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,RPA UI PATH, Karnataka,10,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java developer, Tamil Nadu,15,80865,Contract , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Java Full Stack Developer, Maharashtra,11,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,1,0,1,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Solution Lead, Telangana,6,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Learning Consultant, Telangana,2,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,0,0,0,1,0,1,0,0,1,0,0,0,0,0,1,1
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Test Engineer, Uttar Pradesh,41,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Tamil Nadu,19,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Business Analyst, Telangana,66,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Team Lead, Telangana,88,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sharepoint Migration Engineer, Maharashtra,0,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Sr. Engineer, Tamil Nadu,29,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Required SAP FICO Consultants for Contract, India,17,80865,Contract , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Manual Tester, Telangana,63,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Software Engineer, Karnataka,76,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Devops Engineer, Tamil Nadu,52,80865,Full-time , Entry level,1200, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,AWS ENGINEER, Telangana,2,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP Security with S4 HANA, Telangana,3,80865,Full-time , Entry level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,SAP PM with FICO, Telangana,11,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Business Analyst, Karnataka,59,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+IDESLABS PRIVATE LIMITED,Class 4,Project Lead, Telangana,11,80865,Full-time , Mid-Senior level,1200, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Cactus Communications,Class 2,Marketing Associate, Maharashtra,39,531551,Full-time , Entry level,5000," Technology, Information and Internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Cactus Communications,Class 2,CACTUS Talent Community, Maharashtra,33,531551,Full-time , Entry level,5000," Technology, Information and Internet",0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Mis Executive, Gujarat,57,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Mis Executive, Maharashtra,53,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,MIS Executive (Insuretech Company), Gujarat,39,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Talent Acquisition Manager (With leading Bank), Maharashtra,29,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Project Manager, Maharashtra,3,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Associate Consultant (Hospital Management System), Uttar Pradesh,4,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Branch Relationship Manager, Karnataka,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Customer Service Executive- Retail Assets- Noida, Delhi,1,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Software QA Engineer 2 / Senior QA Engineer / Manual Test Lead / Automation Test, Tamil Nadu,26,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+ACURA SOLUTIONS LTD,Class 4,Software QA Engineer 2 / Senior QA Engineer / Manual Test Lead / Automation Test, Karnataka,31,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+ACURA SOLUTIONS LTD,Class 4,Frontend Developer (Insuretech Company), Gujarat,0,11245,Full-time , Entry level,110, Real Estate,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Consultant - Internal Audit, Maharashtra,5,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Customer Service Executive- Retail Assets- Noida, Uttar Pradesh,4,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,MSBI Developer, Karnataka,5,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Node.js Developer (For IT Consulting), Maharashtra,2,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Teller Authorizer, Karnataka,0,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Senior Associate / Consultant KYC/CDD, Haryana,45,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+ACURA SOLUTIONS LTD,Class 4,Branch Relationship Manager, Andhra Pradesh,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Branch Relationship Manager, Telangana,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Internal Audit - Consultant, Maharashtra,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,SAP Security, Delhi,18,11245,Full-time , Entry level,110, Real Estate,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ACURA SOLUTIONS LTD,Class 4,SAP Security, Karnataka,25,11245,Full-time , Entry level,110, Real Estate,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1
+ACURA SOLUTIONS LTD,Class 4,Analyst Consultant_Private Equity, Delhi,3,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)", Maharashtra,0,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Deputy Branch Manager ( Leading Pvt. Bank), West Bengal,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Branch Relationship Manager, Karnataka,1,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Analyst/Associate Consultant (Primary Market Research), Karnataka,16,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Deputy Branch Manager ( Leading Pvt. Bank), Karnataka,1,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Analyst/Associate Consultant (Primary Market Research), Haryana,19,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Assitance Manager - Purchase ( Jejuri - Pune location), Maharashtra,2,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,E-Commerce Manager - Agritech Company, Maharashtra,12,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Digital Marketing Executive, Maharashtra,11,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,BDM-Business Loan in a Leading MNC Bank, Rajasthan,1,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,TASC RM ( Leading Pvt. Bank), Telangana,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,UI/UX developer, Gujarat,0,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Telecaller Executive (Fintech Firm), Maharashtra,1,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Software Tester (Insuretech Company), Gujarat,11,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Social Media Manager with Insure-tech company, Maharashtra,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Teller Authorizer, Telangana,2,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Teller Authorizer, Andhra Pradesh,3,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Data Analyst (Business professional Institute), Uttar Pradesh,16,11245,Full-time , Mid-Senior level,110, Real Estate,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,BDM for a Reputed MNC Bank., Karnataka,7,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Digital Marketing, Maharashtra,5,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Associate Software Engineer - .Net (Fintech Company), Uttar Pradesh,1,11245,Full-time , Entry level,110, Real Estate,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+ACURA SOLUTIONS LTD,Class 4,BDM-Business Loan in a Leading MNC Bank, Uttar Pradesh,4,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Senior Associate / Consultant Compliance with Big 5 company, Haryana,3,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Associate Consultant - Data Migration, Telangana,8,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Deputy Branch Manager ( Leading Pvt. Bank), Delhi,5,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Internal Audit - Consultant, Maharashtra,1,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Teller Authorizer, Kerala,1,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Teller Authorizer, Karnataka,2,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,AVP Home Loans, Maharashtra,15,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Hiring for Associate Consultant - Reporting with a MNC Pharmaceutical Firm, Uttar Pradesh,2,11245,Full-time , Entry level,110, Real Estate,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Content Writer (Hindi) - Insurance, Maharashtra,16,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,TASC RM ( Leading Pvt. Bank), Haryana,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Relationship Manager - Business Banking (Mid Corporate), Telangana,3,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager - Statutory IT Auditor, Delhi,4,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager - Statutory IT Auditor, Tamil Nadu,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+ACURA SOLUTIONS LTD,Class 4,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)", Maharashtra,4,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)", Telangana,3,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)", Uttar Pradesh,11,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager - Statutory IT Auditor, Telangana,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager - Statutory IT Auditor, Uttar Pradesh,3,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Analyst Consultant_Private Equity, Maharashtra,4,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Software QA Engineer 2 / Senior QA Engineer / Manual Test Lead / Automation Test, Tamil Nadu,33,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,1,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager - Statutory IT Auditor, Haryana,2,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Flexi Banker, Delhi,5,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Deputy Branch Manager ( Leading Pvt. Bank), Maharashtra,1,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Looker BI Developer, Uttar Pradesh,8,11245,Full-time , Mid-Senior level,110, Real Estate,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+ACURA SOLUTIONS LTD,Class 4,Associate Principal - Strategy Consulting- (Pharmaceutical MNC), Haryana,3,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Associate Principal - Strategy Consulting- (Pharmaceutical MNC), Karnataka,7,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Lead- Digital Business Process Re-engineering, Maharashtra,1,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Branch Relationship Manager, Uttar Pradesh,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Ui Ux Developer - Mumbai, Maharashtra,3,11245,Full-time , Entry level,110, Real Estate,0,0,1,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,1,1
+ACURA SOLUTIONS LTD,Class 4,Hiring for Branch Relationship Manager, Maharashtra,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Hiring for Branch Relationship Manager, Uttar Pradesh,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Looker BI Developer, Karnataka,7,11245,Full-time , Mid-Senior level,110, Real Estate,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,1
+ACURA SOLUTIONS LTD,Class 4,Associate Software Engineer- React Js with a Leading Fintech Company, Uttar Pradesh,11,11245,Full-time , Entry level,110, Real Estate,0,0,1,0,0,0,0,0,0,0,1,1,1,1,0,0,0,1,1,0,1,0,1,0,0,0,1,0,0,1,1
+ACURA SOLUTIONS LTD,Class 4,Human Resource Recruiter (HR), Maharashtra,4,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)", Delhi,6,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,"MERN Developer (MongoDB, ExpressJS,ReactJS,NodeJS)", Kerala,6,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,0,1,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Hiring for Associate Consultant- Data Migration with a MNC Pharmaceutical Firm, Telangana,0,11245,Full-time , Entry level,110, Real Estate,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager - Statutory IT Auditor, Maharashtra,2,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Branch Manager, Maharashtra,1,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager Strategic Planning, Karnataka,3,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Assistant Manager - Cyber ITGC with Big 5 company, Haryana,2,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Assistant Manager - Cyber ITGC with Big 5 company, Karnataka,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,NodeJs Developer (With the fintech firm), Maharashtra,1,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Associate Consultant- Reporting with a Leading pharmaceutical MNC, Uttar Pradesh,2,11245,Full-time , Entry level,110, Real Estate,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,1,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager - Statutory IT Auditor, Karnataka,2,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Manager - E-Commerce (For Agritech company), Maharashtra,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,TASC RM ( Leading Pvt. Bank), Delhi,1,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Analyst Consultant (Private Equity), Karnataka,6,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Associate Software Engineer - React JS (Fintech Company), Uttar Pradesh,7,11245,Full-time , Entry level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,SR UI/UX developer (Frontend + UI/UX development), Maharashtra,2,11245,Full-time , Entry level,110, Real Estate,0,0,1,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+ACURA SOLUTIONS LTD,Class 4,Branch Relationship Manager, Maharashtra,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+ACURA SOLUTIONS LTD,Class 4,Hiring for Branch Relationship Manager, Delhi,0,11245,Full-time , Mid-Senior level,110, Real Estate,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+UST,Class 1,Technical Lead, Kerala,22,783349,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Vodafone Idea Limited,Class 1,Manager-Regional Account Service, Maharashtra,115,235117,Full-time , Mid-Senior level,10001, Telecommunications,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,0,0
+Vodafone Idea Limited,Class 1,AGM - Zonal Technical Manager, Maharashtra,35,235117,Full-time , Mid-Senior level,10001, Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Vodafone Idea Limited,Class 1,AGM-Product Management, Maharashtra,82,235117,Full-time , Mid-Senior level,10001, Telecommunications,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Tata Consultancy Services,Class 3,Administrative Officer, Telangana,0,11996967,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tata Consultancy Services,Class 3,Embedded Engineer, Telangana,57,11996967,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Tata Consultancy Services,Class 3,Python, Telangana,148,11996967,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,1
+Tata Consultancy Services,Class 3,NodeJS, West Bengal,7,11996967,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Tata Consultancy Services,Class 3,Embedded Engineer, Karnataka,93,11996967,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tata Consultancy Services,Class 3,NodeJS, Karnataka,16,11996967,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Tata Consultancy Services,Class 3,Python, Telangana,168,11996967,Full-time , Associate,10001, IT Services and IT Consulting,1,0,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,1,0,0,0,0,0,0,1
+Tata Consultancy Services,Class 3,Automotive Embedded Cybersecurity, Maharashtra,19,11996967,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Tata Consultancy Services,Class 3,NodeJS, Telangana,21,11996967,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Tata Consultancy Services,Class 3,Embedded Engineer, Telangana,58,11996967,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Tata Consultancy Services,Class 3,Node JS, Karnataka,196,11996967,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+Tata Consultancy Services,Class 3,NodeJS, Maharashtra,20,11996967,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Tata Consultancy Services,Class 3,NodeJS, India,11,11996967,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,0,0,0
+Tata Consultancy Services,Class 3,node js, Odisha,38,11996967,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Artificial Intelligence Engineer - WFH, Maharashtra,19,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1
+Uplers,Class 2,Dotnet Developer- WFH, Maharashtra,22,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Dotnet Developer- WFH, Delhi,36,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Dotnet Developer- WFH, Karnataka,25,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Full Stack Developer, Rajasthan,23,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Dotnet Developer- WFH, Maharashtra,24,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Python Software Engineer, Gujarat,44,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Dotnet Developer- WFH, Telangana,28,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Dotnet Developer- WFH, Tamil Nadu,27,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Python Web Developer, India,36,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Full Stack Software Engineer, Rajasthan,18,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Software Engineer - Senior, Haryana,4,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,0,0
+Uplers,Class 2,Python Web Developer, Telangana,75,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Back End Developer, West Bengal,53,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Python Tech Lead, Maharashtra,7,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Web Developer - Python, Tamil Nadu,66,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Web Developer - Python, Haryana,24,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Sr. Software Engineer, Haryana,5,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,0,0
+Uplers,Class 2,Web Developer - Python, Karnataka,112,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Python Software Engineer, Tamil Nadu,35,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Software Engineer- Blockchain, Maharashtra,35,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Search Executive, Karnataka,20,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Full Stack Developer, Rajasthan,38,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Data Architect, Telangana,1,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Software Engineer- Blockchain, Tamil Nadu,11,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Big Data Engineer - WFH, India,16,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Software Engineer- Blockchain, Delhi,32,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Cloud Software Engineer, Madhya Pradesh,21,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Data Scientist- WFH, Maharashtra,112,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0
+Uplers,Class 2,PPC Executive, Karnataka,28,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Software Engineer- Blockchain, Karnataka,13,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Data Scientist- WFH, Maharashtra,74,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0
+Uplers,Class 2,Software Engineer- Blockchain, Telangana,64,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Technical Architect, Telangana,2,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,ML Engineer - Remote, India,12,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1
+Uplers,Class 2,Big Data Engineer - WFH, Telangana,27,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,UI/UX Designer, Rajasthan,166,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+Uplers,Class 2,SF Tech Architect, Tamil Nadu,1,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Python Developer, Karnataka,65,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Systems Engineer- Back End, Telangana,50,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,1,1,0,1,0,0,0,0,0
+Uplers,Class 2,Android Engineer- WFH, Telangana,23,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Associate Python Programmer, India,38,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Sr. Salesforce Developer (WFH), Madhya Pradesh,20,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Android App Developer- WFH, Karnataka,10,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Data Scientist- WFH, Tamil Nadu,48,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,0,0,0,0
+Uplers,Class 2,Android App Developer- WFH, West Bengal,15,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,PPC Executive- Associate, Karnataka,44,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Python Software Developer, Gujarat,68,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Unity Developer (WFH), Haryana,3,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Dotnet Software Developer, Maharashtra,30,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Back End Developer, Uttar Pradesh,47,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Cloud Software Engineer, Uttar Pradesh,18,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Unity Developer (WFH), West Bengal,2,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Data Solutions Architect, Telangana,4,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,1,1,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Data Engineering Expert - WFH, Haryana,4,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Dotnet Software Developer, Gujarat,25,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Search Engine Marketing (SEM) Manager, Karnataka,5,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Unity Developer (WFH), India,3,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Data Engineering Expert - WFH, Tamil Nadu,13,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Data Engineer, Gujarat,40,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Manager - Search Engine Marketing, Karnataka,3,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Unity Developer (WFH), Telangana,5,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Full Stack Developer (React & Node.js), Rajasthan,22,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,SF Tech Architect - Associate, Tamil Nadu,5,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Associate Python Programmer, Gujarat,59,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Python Developer, Maharashtra,136,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Staff Software Engineer, Haryana,11,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,1,0,0,0,0,1,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1,1,0,0,0,0
+Uplers,Class 2,Cloud Software Engineer, Telangana,36,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Performance Marketing Executive, Karnataka,20,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Java Associate Developer (WFH), Telangana,48,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Lead Google Analytics (WFH), Gujarat,13,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,1
+Uplers,Class 2,Associate - Programmatic, Rajasthan,27,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Dotnet Software Developer, Karnataka,29,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Fullstack developer, Rajasthan,33,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Dotnet Software Developer, Tamil Nadu,29,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Sr. Quality Analyst, Telangana,111,793022,Full-time , Associate,5000, IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1
+Uplers,Class 2,Lead Data Engineer, Telangana,3,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0
+Uplers,Class 2,SEM Specialist, Karnataka,6,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Dotnet Software Developer, Telangana,31,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Sr. Quality Analyst, West Bengal,55,793022,Full-time , Associate,5000, IT Services and IT Consulting,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,1,0,1
+Uplers,Class 2,Dotnet Software Developer, Delhi,23,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Senior Python Programmer, Tamil Nadu,20,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,.Net Framework Developer, Gujarat,32,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Android Developer- WFH, West Bengal,90,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Senior Ad-Tech Specialist, Madhya Pradesh,7,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Python Developer, Uttar Pradesh,47,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Senior Software Engineer (WFH), Haryana,15,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,AI Engineer - WFH, Maharashtra,64,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,0,0,0,1,0,0,0,0,0,0,1,0,1,0,1,0,0,0,1,1,0,0,0,0,0,0,1
+Uplers,Class 2,Lead Data Engineer - WFH, Uttar Pradesh,12,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,.Net Core Developer, Karnataka,34,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Java Software Engineer, Uttar Pradesh,34,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,1,0,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Search Engine Marketing Manager, Karnataka,3,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Android Developer- WFH, Tamil Nadu,33,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Blockchain Software Developer, Gujarat,7,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,React Developer, Rajasthan,70,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+Uplers,Class 2,Full Stack Engineer (React/Node.js), Rajasthan,14,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,UI/UX Designer, Rajasthan,167,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,1,1
+Uplers,Class 2,Database Engineer, Telangana,27,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0
+Uplers,Class 2,Mobile Developer- Android, Maharashtra,9,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Associate Digital Marketing (WFH), Maharashtra,30,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Android Engineer- WFH, India,19,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Associate Digital Marketing (WFH), Maharashtra,33,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Engineer - Lead, Haryana,8,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,1,0,0,0,0,0,1,1,0,1,0,0,0,0,1,0,1,0,1,1,0,1,0,0,0,0,0
+Uplers,Class 2,Mobile Developer- Android, Karnataka,21,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Paid Search Executive, Karnataka,6,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Python Developer - WFH, Haryana,79,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,Android Engineer- WFH, India,21,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Campaign Analyst - Programmatic, West Bengal,6,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Python Developer - WFH, Maharashtra,75,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,1,0,0,1,0,0,0,0,1,1,1,1,0,0,0,0,1,1,0,0,1,1,0,0,0,0,0,1,1
+Uplers,Class 2,PPC Specialist, Rajasthan,27,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Senior Ad Operations Specialist, Rajasthan,17,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,React Developer, Gujarat,77,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,1,0,1,0,0,0,0,0,0,0
+Uplers,Class 2,PPC Executive- Associate, Karnataka,24,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,SF Tech Architect - Associate, Tamil Nadu,3,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Senior - Data Engineer, Telangana,11,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,1,1,0,0,0
+Uplers,Class 2,Google Analytics Associate - WFH, Maharashtra,84,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,1,1,0,0,0,1,0,1,1
+Uplers,Class 2,Mobile Developer- Android, Telangana,18,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Programmatic Executive, Telangana,15,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Uplers,Class 2,Mobile Developer- Android, Haryana,14,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Data Engineer, Maharashtra,41,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,0,0,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Remote Android Developer, Maharashtra,9,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Uplers,Class 2,Python Software Developer, Tamil Nadu,113,793022,Full-time , Mid-Senior level,5000, IT Services and IT Consulting,1,1,1,1,1,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Linux Lead, Karnataka,61,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+Infosys,Class 3,Nodejs Lead, Telangana,99,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+Infosys,Class 3,Technology Analyst - .Net, Haryana,191,6790011,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Technology Analyst - .Net, Tamil Nadu,144,6790011,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Dotnet Developer, Kerala,170,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Technology Analyst - NodeJs (3-5 years) - Jaipur, Rajasthan,30,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Java Developer (3-5 yrs) Bhubaneshwar, Odisha,42,6790011,Full-time , Associate,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Infosys,Class 3,Senior Dotnet Developer, Punjab,45,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Technology Analyst - Devops - (3-5 years) - BHUBANESWAR, Odisha,126,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Java Developer (5-8 yrs) Bhubaneshwar, Odisha,20,6790011,Full-time , Associate,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Infosys,Class 3,Nodejs Lead, Maharashtra,69,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+Infosys,Class 3,Technology Analyst - NodeJs (3-5 years) - Pune, Maharashtra,74,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Dotnet Developer, Odisha,115,6790011,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0
+Infosys,Class 3,Java Developer (5-8 yrs) Indore, Madhya Pradesh,44,6790011,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
+Infosys,Class 3,Technology Analyst - NodeJs (3-5 years) - Bhubaneshwar, Odisha,77,6790011,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0
+Genpact,Class 1,Hiring for OTC- JAIPUR, Rajasthan,47,2519518,Full-time , Entry level,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0
+Genpact,Class 1,C++ Developer, Telangana,72,2519518,Full-time , Mid-Senior level,10001, IT Services and IT Consulting,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0,0,0,0,0,0,0
+Genpact,Class 1,Hiring for RTR- Jaipur, Rajasthan,133,2519518,Full-time , Associate,10001, IT Services and IT Consulting,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,1,0,0,0,0
