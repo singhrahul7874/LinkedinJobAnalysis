@@ -56,12 +56,19 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 1. The visual provides an overview of job opportunities that specifically require a particular skill set. It showcases the correlation between specific skills and the corresponding job positions available in the market. The visual aims to highlight the demand for expertise in certain areas and serves as a valuable resource for individuals seeking employment opportunities aligned with their skill sets.
 
 	`plt.figure(figsize=(20,10),dpi=100)`
+	
 	`chart = sns.barplot(x=skill_df["Skill"],y=skill_df["Number of jobs requiring the skill"],palette="icefire")`
+	
 	`plt.title("Number of jobs that require a particular skill",size=25)`
+	
 	`plt.ylabel("Number of jobs",size=22)`
+	
 	`plt.xlabel("Skill",size=22)`
+	
 	`plt.xticks(fontsize=18,rotation=90)`
+	
 	`plt.yticks(fontsize=18)`
+	
 	`chart.bar_label(chart.containers[0],size=18)`
 
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235893509-09e24fc5-ddde-424b-b7bc-ad6c606b856c.png height=400 width=800></a></p>
