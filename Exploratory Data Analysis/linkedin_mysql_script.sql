@@ -50,9 +50,11 @@ GROUP BY 1
 ORDER BY 2 DESC
 LIMIT 10;
 
--- Select companies with different employees count and categorize them as small, medium, and large size
--- based on employees count, and show the company size and their count
+
+-- Categorize companies based on their employee count into small, medium, and large size
+-- using a common table expression (CTE)
 WITH cte AS (
+    -- Select the company name and assign a company size based on the employee count
     SELECT company_name, 
     CASE 
         WHEN Employees_Count <= 200 THEN "Small Size Company" 
@@ -65,6 +67,7 @@ WITH cte AS (
     GROUP BY 1 
     ORDER BY 2
 )
+-- Count the number of companies in each company size category
 SELECT Company_size, COUNT(*)
 FROM cte
 GROUP BY 1 
