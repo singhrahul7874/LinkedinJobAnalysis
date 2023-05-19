@@ -1,8 +1,12 @@
 #  <img src=https://user-images.githubusercontent.com/55955478/235878802-1c423764-f355-47b0-b926-f9380334defd.png height=48 width=48> LINKEDIN JOBS ANALYSIS
 <img src=https://user-images.githubusercontent.com/55955478/235868102-52317ba3-5e46-44cd-bc4c-7603f059b8af.png height=300 width=1200>
 <br> 
+
 This repository presents an end-to-end analysis of LinkedIn's professional networking platform's Jobs section. The project aims to extract over 500 job details from LinkedIn's website using the Python library, Selenium, and organize the information into specific formats by creating three tables. Additionally, the project involved data cleaning and exploratory data analysis using Pandas and Numpy libraries. MySQL and MS-Excel were utilized to derive insights from the dataset. Power BI was used to visualize the results. Finally, a web page was created to present relevant job information based on the skills listed in the dataset. The page was hosted on the cloud for wider access.
+
+
 <br>
+
 
 ## <img src=https://user-images.githubusercontent.com/106439762/181935629-b3c47bd3-77fb-4431-a11c-ff8ba0942b63.gif height=50 width=50 >  User's Manual
 
@@ -43,13 +47,32 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
   2. Utilized Pandas to perform data cleaning and exploratory data analysis (EDA), and seamlessly imported the CSV files into MySQL for comprehensive analysis and further insights extraction.
 
-3. Skillfully employed various SQL clauses such as GROUP BY, ORDER BY, HAVING, and more to manipulate the data, enabling in-depth analysis and extraction of valuable insights.
+3. Skillfully employed various SQL clauses such as GROUP BY, ORDER BY, HAVING, CASE-WHEN and more to manipulate the data, enabling in-depth analysis and extraction of valuable insights.
+
+	<img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/70658242-7a1c-457b-8296-f3e27e2d7403 height=400 width=700 >
+
 
 4. Demonstrated proficiency by developing a dynamic web page showcasing diverse job listings categorized based on distinct skill sets, enhancing accessibility and user experience.
   
   	<img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/277630c7-676c-4da4-8c32-e426655b9a67 height=300 width=700 >
 
 <br>
+
+# Data Cleaning ( few code snippets )
+
+## 1. Removing Noise from Employee_count Column
+<img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/718aefe1-f4b7-479f-b4ab-242d43708ef0 height=300 width=700>
+
+## 2. Taking Median of Linkedin_followers for different Companies
+<img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/407f2466-b83a-4878-b88c-2eb576e5c19a height=300 width=700>
+
+## 3. Extracting skills(keywords) from job_description coloumn
+<img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/9c2ee06b-9bce-4254-aefe-fb9436c37439 height=300 width=700>
+
+
+<br>
+<br>
+  
   
 ## <img src=https://user-images.githubusercontent.com/106439762/178803205-47a08ce7-2187-4f96-b301-a2b68690619a.gif height=48 width=48> Results/Insights:
 
@@ -77,13 +100,19 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 2. The visual displays the distribution of job availability across different classes, providing insights into the number of job opportunities within each category. It offers a clear understanding of the relative abundance or scarcity of jobs in various classes, aiding individuals in identifying areas with higher or lower job prospects.
 
 	`plt.figure(figsize=(20,10),dpi=100)`
+	
 	`ax = sns.countplot(df["Class"],palette="viridis")`
+	
 	`plt.title("Job Openings by Class",size=25)`
+	
 	`plt.ylabel("Number of job openings",size=20)`
+	
 	`plt.xlabel("Class",size=20)`
+	
 	`plt.xticks(fontsize=20)`
 	`plt.yticks(fontsize=20)`
 	`ax.bar_label(ax.containers[0],size=20)`
+	
 
 <p align="center"><a><img src=https://user-images.githubusercontent.com/55955478/235894505-1d09f952-dfc7-4625-a6c0-fb58e79ff671.png height=400 width=800></a></p>
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -92,9 +121,13 @@ This repository presents an end-to-end analysis of LinkedIn's professional netwo
 
 	`plt.figure(figsize=(13,6), dpi=200)`
 	`chart = sns.countplot(df["Involvement"],palette='ocean_r')`
+	
 	`plt.title("Job Openings for different involvement natures",size=25)`
+	
 	`plt.ylabel("Number of job openings",size=20)`
+	
 	`plt.xlabel("Involvement nature",size=20)`
+	
 	`chart.bar_label(chart.containers[0],size=13)`
 
 <p align="center"><a><img src=https://github.com/singhrahul7874/LinkedinJobAnalysis/assets/55955478/4af95f62-6e4d-47e4-a51a-8ad22d6abe51 height=400 width=800></a></p>
